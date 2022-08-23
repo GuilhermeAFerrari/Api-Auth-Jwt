@@ -3,7 +3,7 @@
 > 🚀 Projeto desenvolvido em ASP.NET Core, com objetivo de implementar utilização de Tokens para autentição e autorização com [JWT](https://jwt.io/).
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias e Pacotes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias-e-pacotes">Tecnologias e Pacotes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contribuição">Contribuição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
