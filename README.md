@@ -3,7 +3,7 @@
 > 🚀 Projeto desenvolvido em ASP.NET Core, com objetivo de implementar utilização de Tokens para autentição e autorização com [JWT](https://jwt.io/).
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias e Pacotes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-pacotes">Pacotes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contribuição">Contribuição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,14 +14,11 @@
 
 ![](./src/ApiAuth.gif)
 
-### 🛠 Tecnologias
+### 🛠 Tecnologias e Pacotes
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [.NET6](https://visualstudio.microsoft.com/pt-br/vs/community/)
-
-### ⚙️ Pacotes
-
 - [Microsoft.AspNetCore.Authentication.Core](https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.Core)
 - [Microsoft.AspNetCore.Authentication.JwtBearer](https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer)
 
